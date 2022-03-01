@@ -3,7 +3,7 @@
 ### 一. 自動部署 Heroku
 首先我們先做一個最簡單的 Echo Bot (也就是你跟他說什麼，他都會回覆一模一樣的話給你) 點擊下面紫色的 Deploy to Heroku 按鈕
 
-<a href="https://heroku.com/deploy?template=https://github.com/hsuanchi/Flask-LINE-Bot-Heroku/tree/main">
+<a href="https://heroku.com/deploy?template=https://github.com/chen-hwei/Flask-LINE-Bot-Heroku/tree/main">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 
@@ -13,7 +13,7 @@
 2. 輸入專案名稱，這邊將會成為未來網址的一部分像是 https://xxxxxxx.herokuapp.com/
 3. 輸入在 LINE Developers 取得的 Access Token 和 CHANNEL_SECRET
 
-<img src="https://github.com/hsuanchi/Flask-LINE-Bot-Heroku/blob/main/img/step1%20LINE-bot%20deploy_to_heroku.png" width="800px" height="auto">
+<img src="https://github.com/chen-hwei/Flask-LINE-Bot-Heroku/blob/main/img/step1%20LINE-bot%20deploy_to_heroku.png" width="800px" height="auto">
 
 然後等待 Heroku 建立部署，完成後會出現以下畫面，綠色勾勾就代表部署成功囉！
 
